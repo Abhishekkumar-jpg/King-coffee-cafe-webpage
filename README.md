@@ -39,4 +39,4 @@ the King Cafe Coffee Shop project will implement a multi-faceted approach.
 4. Community Engagement: Organizing events and activities that bring thecommunity together, such as coffee tastings, workshops, and live performances. 
 5. Operational Efficiency: Using data analytics for inventory management and customer feedback to continually improve services. 
 
-this project is very special for increasing my HTML,CSS,JS programming knowledge and skills.
+this project is very special for increasing and gaining my HTML,CSS,JS programming knowledge and skills.
